@@ -1,0 +1,27 @@
+Datenschutzerklärung
+
+Unsere App LEO CellStim schätzt Ihre Privatsphäre und ist bestrebt, sicherzustellen, dass Ihre personenbezogenen Daten geschützt sind. In dieser Datenschutzerklärung erklären wir, welche Daten wir erfassen und wie wir diese Daten verwenden.
+
+Daten, die wir erfassen:
+
+    Standortdaten: Die Verwendung von Bluetooth erfordert die Berechtigung, Ihren Standort zu erfassen. Wir speichern oder verarbeiten diese Daten jedoch nicht.
+
+    Bluetooth-Daten: Wir verwenden Bluetooth-Technologie, um Daten mit anderen Geräten in der Nähe zu übertragen. Diese Daten werden nur dann erfasst, wenn Sie Ihre Bluetooth-Berechtigungen in der App aktivieren.
+
+Verwendung Ihrer Daten:
+
+    Standortdaten: Wir erfassen Ihren Standort lediglich, um die Verwendung von Bluetooth zu ermöglichen. Wir speichern oder verarbeiten diese Daten nicht.
+
+    Bluetooth-Daten: Wir verwenden Ihre Bluetooth-Daten, um Daten mit anderen Geräten in der Nähe zu übertragen und um Ihnen Funktionen zu bieten, die auf dieser Übertragung basieren.
+
+Schutz Ihrer Daten:
+
+Wir sind uns bewusst, dass der Schutz Ihrer Daten von höchster Bedeutung ist, und haben daher angemessene Maßnahmen ergriffen, um Ihre Daten zu schützen, einschließlich der Verwendung von Verschlüsselungstechnologie und der regelmäßigen Überwachung unserer Systeme.
+
+Änderungen an dieser Datenschutzerklärung:
+
+Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu ändern, um Änderungen in den Gesetzen und Vorschriften zu berücksichtigen. Wir werden Sie über jegliche Änderungen informieren, indem wir eine aktualisierte Version dieser Datenschutzerklärung auf unserer App bereitstellen.
+
+Kontakt:
+
+Wenn Sie Fragen oder Anliegen zu dieser Datenschutzerklärung oder unserer Verwendung Ihrer Daten haben, wenden Sie sich bitte an uns über unsere Kontaktseite oder per E-Mail an mathias.dobler@dokineering.com. Wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen.
