@@ -1,3 +1,33 @@
+Privacy Policy
+
+Our app LEO CellStim values your privacy and strives to ensure that your personal data is protected. In this privacy policy, we explain what data we collect and how we use this data.
+
+Data We Collect:
+
+    Location data: The use of Bluetooth requires permission to access your location. However, we do not store or process this data.
+
+    Bluetooth data: We use Bluetooth technology to transfer data with other nearby devices. This data is only collected when you enable your Bluetooth permissions in the app.
+
+Use of Your Data:
+
+    Location data: We only collect your location to enable the use of Bluetooth. We do not store or process this data.
+
+    Bluetooth data: We use your Bluetooth data to transfer data with other nearby devices and to provide you with features based on this transmission.
+
+Protection of Your Data:
+
+We are aware that protecting your data is of the utmost importance and have therefore taken appropriate measures to protect your data, including the use of encryption technology and regular monitoring of our systems.
+
+Changes to this Privacy Policy:
+
+We reserve the right to change this privacy policy at any time to reflect changes in laws and regulations. We will inform you of any changes by providing an updated version of this privacy policy on our app.
+
+Contact:
+
+If you have any questions or concerns about this privacy policy or our use of your data, please contact us through our contact page or by email at mathias.dobler@dokineering.com. We will respond to you as soon as possible.
+
+--------------------
+
 Datenschutzerklärung
 
 Unsere App LEO CellStim schätzt Ihre Privatsphäre und ist bestrebt, sicherzustellen, dass Ihre personenbezogenen Daten geschützt sind. In dieser Datenschutzerklärung erklären wir, welche Daten wir erfassen und wie wir diese Daten verwenden.
